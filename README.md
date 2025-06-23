@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a18239ee-fcba-4dd4-9253-81d874573eb5)# Proyecto de Grafos: Generador de Laberintos
+# Proyecto de Grafos: Generador de Laberintos
 
 Este proyecto consiste en el desarrollo de un **generador de laberintos basado en grafos**, con interfaz gráfica construida en Java utilizando Swing. Se generan laberintos de tamaño `n x n` con tres niveles de dificultad (fácil, normal, difícil), y se visualizan en tiempo real.
 
